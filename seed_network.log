@@ -1,0 +1,12 @@
+2025-02-16 20:29:22,176 - Seed Node 172.31.79.28:2000 started listening
+2025-02-16 20:29:31,730 - Seed Node 172.31.79.28:2001 started listening
+2025-02-16 20:29:42,641 - Seed Node 172.31.79.28:2001 - Connected to Peer Node 172.31.79.28:1000
+2025-02-16 20:29:42,642 - Seed Node 172.31.79.28:2000 - Connected to Peer Node 172.31.79.28:1000
+2025-02-16 20:30:37,605 - Seed Node 172.31.79.28:2000 started listening
+2025-02-16 20:30:46,204 - Seed Node 172.31.79.28:2001 started listening
+2025-02-16 20:30:58,496 - Seed Node 172.31.79.28:2001 - Connected to Peer Node 172.31.79.28:1500
+2025-02-16 20:30:58,498 - Seed Node 172.31.79.28:2000 - Connected to Peer Node 172.31.79.28:1500
+2025-02-16 20:31:12,343 - Seed Node 172.31.79.28:2001 - Connected to Peer Node 172.31.79.28:1600
+2025-02-16 20:31:12,344 - Seed Node 172.31.79.28:2000 - Connected to Peer Node 172.31.79.28:1600
+2025-02-16 20:31:50,523 - Seed Node 172.31.79.28:2001 - Connected to Peer Node 172.31.79.28:172.31.79.28
+2025-02-16 20:31:50,524 - Seed Node 172.31.79.28:2000 - Connected to Peer Node 172.31.79.28:172.31.79.28
